@@ -1,3 +1,4 @@
 # Matplotlib
-learning basic matplotlib\n
+learning basic matplotlib
+
 doing basic projects using matplotlib
