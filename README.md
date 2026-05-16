@@ -1,4 +1,2 @@
 # Matplotlib
-learning basic matplotlib
-
-doing basic projects using matplotlib
+using the basics of matplotlib to plot sample data
